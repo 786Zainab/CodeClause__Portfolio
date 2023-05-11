@@ -1,0 +1,45 @@
+body {
+  background-color: black;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  color: whitesmoke;
+}
+
+.heading {
+  font-size: 50px;
+  font-style: italic;
+  margin: 100px 0px;
+  font-weight: bold;
+  color: #f1177d;
+  text-decoration: underline;
+  display: flex;
+  justify-content: center;
+}
+
+.ab-ct {
+  font-size: 25px;
+  color: white;
+}
+
+.link {
+  color: whitesmoke;
+  text-decoration: none;
+}
+
+.cvl {
+  color: whitesmoke;
+  text-decoration: none;
+}
+
+.link:hover {
+  color: rgb(102, 87, 87);
+}
+
+.cvl:hover {
+  color: rgb(102, 87, 87);
+}

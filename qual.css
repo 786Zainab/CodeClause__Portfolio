@@ -1,0 +1,69 @@
+body {
+  background-color: black;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  gap: 100px;
+  color: white;
+}
+
+.main-heading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 35px;
+  color: #f1177d;
+}
+
+hr {
+  margin: 0px 80px;
+}
+
+.heading {
+  font-size: 25px;
+  color: #f1177d;
+}
+
+.para {
+  font-size: 20px;
+  margin: 10px 15px;
+}
+
+.list {
+  font-size: 20px;
+  margin: 10px 15px;
+}
+
+.p-h {
+  font-size: 20px;
+  margin: 10px 15px;
+  color: #f1177d;
+}
+
+.s-h {
+  font-size: 20px;
+  margin: 10px 15px;
+  color: rgb(182, 178, 178);
+}
+
+.int-p {
+  font-size: 20px;
+  margin: 10px 15px;
+  color: white;
+}
+
+.email {
+  text-decoration: underline;
+  font-size: 20px;
+  margin: 10px 15px;
+}
+
+.number {
+  text-decoration: underline;
+  font-size: 20px;
+  margin: 10px 15px;
+}
